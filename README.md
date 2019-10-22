@@ -1,2 +1,5 @@
-# eye_press
-wordpress blog theme
+# Wordpress Theme by sonaspy
+
+## example
+![avatar](./assets/screen.png)
+

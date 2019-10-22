@@ -1,9 +1,6 @@
 <?php
 /**
  * The main template file
- *
- *
- *
  */
 $eyepress_post_sidebar = get_theme_mod( 'eyepress_sidebar_post','right-sidebar');
 $eyepress_blog_style = get_theme_mod( 'eyepress_blog_style','normal');
